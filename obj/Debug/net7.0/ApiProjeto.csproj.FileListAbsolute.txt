@@ -1,0 +1,66 @@
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\appsettings.Development.json
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\appsettings.json
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\ApiProjeto.exe
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\ApiProjeto.deps.json
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\ApiProjeto.runtimeconfig.json
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\ApiProjeto.dll
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\ApiProjeto.pdb
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Felipe\ApiProjeto\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.csproj.AssemblyReference.cache
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.AssemblyInfoInputs.cache
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.AssemblyInfo.cs
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.csproj.CoreCompileInputs.cache
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.MvcApplicationPartsAssemblyInfo.cs
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.MvcApplicationPartsAssemblyInfo.cache
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\staticwebassets\msbuild.ApiProjeto.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiProjeto.props
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiProjeto.props
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiProjeto.props
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\staticwebassets.build.json
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\staticwebassets.development.json
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\scopedcss\bundle\ApiProjeto.styles.css
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.csproj.CopyComplete
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.dll
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\refint\ApiProjeto.dll
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.pdb
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ApiProjeto.genruntimeconfig.cache
+D:\Felipe\ApiProjeto\obj\Debug\net7.0\ref\ApiProjeto.dll
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\appsettings.json
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\ApiProjeto.exe
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\ApiProjeto.deps.json
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\ApiProjeto.runtimeconfig.json
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\ApiProjeto.dll
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\ApiProjeto.pdb
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.csproj.AssemblyReference.cache
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.AssemblyInfoInputs.cache
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.AssemblyInfo.cs
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\staticwebassets\msbuild.ApiProjeto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiProjeto.props
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiProjeto.props
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiProjeto.props
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\scopedcss\bundle\ApiProjeto.styles.css
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.csproj.CopyComplete
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.dll
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\refint\ApiProjeto.dll
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.pdb
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ApiProjeto.genruntimeconfig.cache
+C:\Users\Felipe Melo Silva\Downloads\ApiProjeto\obj\Debug\net7.0\ref\ApiProjeto.dll
